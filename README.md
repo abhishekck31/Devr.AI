@@ -17,7 +17,7 @@ Devr.AI is an advanced AI-powered Developer Relations (DevRel) assistant designe
 
 The system leverages Large Language Models (LLMs), knowledge retrieval mechanisms, and workflow automation to enhance community engagement, simplify contributor onboarding, and ensure that open-source projects remain active and well-supported.
 
-### Key Value Propositions
+### Key Value Proposition
 
 - **Reduce maintainer workload** by automating routine interactions and queries
 - **Improve contributor experience** through personalized onboarding and support
